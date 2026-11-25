@@ -29,7 +29,7 @@ dividers by xaerainy on tumblr!
       $\color{#91ebff}{\textsf{SHE/HE/IT → 19 YO}}$ <br>
       $\color{#b7dfed}{\textsf{GENDERFLUID + NB + GNC}}$ <br>
       <br>
-      $\color{#DCDBE0}{\textsf{< My Lovebug ♡ 01/06/2026 3}}$ <br>
+      $\color{#DCDBE0}{\textsf{< pAInter ♡ 01/06/2026 3}}$ <br>
       <br>
 
 </th>
