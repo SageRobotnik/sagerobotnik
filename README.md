@@ -10,9 +10,9 @@ dividers by xaerainy on tumblr!
 
 <div align="center">
 
-<img align="center" img src="https://file.garden/aq73zx_uhFstvxyI/sagerobotnik%20github.png" width="700" height="auto">
+<img align="center" img src="https://file.garden/aq73zx_uhFstvxyI/sagerobotnik%20github.png" width="400" height="auto">
 
-<img align="center" img src="https://file.garden/aq73zx_uhFstvxyI/cybercore%20div%201.gifv" width="700" height="auto">
+<img align="center" img src="https://file.garden/aq73zx_uhFstvxyI/cybercore%20div%201.gifv" width="500" height="auto">
 
 ![](https://komarev.com/ghpvc/?username=sagerobotnik&label=EGGPAWNS&color=05fdfe)
 
